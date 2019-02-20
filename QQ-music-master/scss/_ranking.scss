@@ -1,0 +1,44 @@
+#rankingView {
+  .topList {
+    padding: 10px;
+    .topListItem {
+      //display: flex;
+      margin-bottom: 10px;
+      .topItemMedia {
+        float: left;
+        img {
+          display: block;
+          width: 100px;
+          height: 100px;
+        }
+      }
+      .topItemInfo{
+        padding: 4px 0;
+        .topContent{
+          margin: 0 10px 0 115px;
+          .topTitle{
+            font-size: 16px;
+            line-height: 24px;
+            margin-bottom: 5px;
+            color: #000;
+            @extend .omit;
+          }
+          .topText{
+            color: rgba(0,0,0,.5);
+            font-size: 14px;
+            line-height: 21px;
+            @extend .omit;
+            .songName{
+              color: black;
+              margin: 0 5px 0 8px;
+            }
+          }
+        }
+      }
+    }
+  }
+}
+
+#rankingView.hide {
+  display: none;
+}

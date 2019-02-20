@@ -1,0 +1,10 @@
+#searchView{
+  background-color: #fff;
+  @import "searchBar";
+  @import "searchResults";
+  @import "searchLoading";
+}
+
+#searchView.hide{
+  display: none;
+}

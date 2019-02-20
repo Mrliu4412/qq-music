@@ -1,0 +1,52 @@
+.radios,.hotSongs{
+  padding: 14px 2px 7px 10px;
+  width: 100%;
+  .title{
+    font-weight: normal;
+    font-size: 16px;
+    color: #000;
+    margin-bottom: 11px;
+  }
+  .list{
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    .listItem{
+      flex:1;
+      flex-basis: 40%;
+      background-color: #fff;
+      font-size: 14px;
+      margin-bottom: 10px;
+      margin-right: 8px;
+      .listMedia{
+        position: relative;
+        img{
+          width: 100%;
+          display: block;
+          min-height: 145px;
+        }
+        .icon{
+          background-image: url(../images/icon_play.png);
+          background-repeat: no-repeat;
+          background-size: 24px 60px;
+        }
+        .icon_play {
+          position: absolute;
+          height: 24px;
+          bottom: 5px;
+          right: 5px;
+          width: 24px;
+          background-position: 0 0;
+        }
+      }
+      .listTitle{
+        margin-top:5px;
+        padding: 0 0 22px 7px;
+      }
+    }
+  }
+}
+
+.hotSongs{
+  margin-top: -14px;
+}

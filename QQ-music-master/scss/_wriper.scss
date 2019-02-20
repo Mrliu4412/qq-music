@@ -1,0 +1,14 @@
+.swiper-container {
+  width: $swiper-width;
+  display: flex;
+  .swiper-wrapper {
+    flex-basis: 100%;
+    a {
+      display: block;
+      img {
+        width: 100%;
+        display: block;
+      }
+    }
+  }
+}

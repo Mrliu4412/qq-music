@@ -1,0 +1,18 @@
+#recView{
+  @import "wriper";
+  @import "radiosAndHotSongs";
+  .footer{
+    margin: 10px 0 22px;
+    .footerLog{
+      background-image: url(../images/logo_footer.png);
+      background-repeat: no-repeat;
+      background-size: cover;
+      width: 82px;
+      height: 24px;
+      margin: 0 auto 10px;
+    }
+  }
+}
+#recView.hide{
+  display: none;
+}

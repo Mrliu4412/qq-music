@@ -1,0 +1,53 @@
+.player-header{
+  display: flex;
+  padding: 15px;
+  background-color: rgba(0,0,0,0.1);
+  align-items: center;
+  .album-cover{
+    display: block;
+    width: 80px;
+    height: 80px;
+    margin-right: 15px;
+  }
+  .song-info{
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    max-width: calc(100% - 150px);
+  }
+  .icon-action{
+    display: block;
+    width: 40px;
+    height: 40px;
+    border: 1px solid #fff;
+    border-radius: 50%;
+    background-color: rgba(0,0,0,0.1);
+    opacity: .6;
+    margin-right: 10px;
+    background-image: url(../images/sprite_play.png);
+    background-repeat: no-repeat;
+    background-size: 40px 380px;
+
+  }
+  .icon-play{
+    background-position: 13px -153px;
+  }
+  .icon-pause{
+    background-position: 15px -183px;
+  }
+
+  .song-name {
+    height: 30px;
+    font-size: 18px;
+    font-weight: normal;
+    color: #fff;
+    @extend .omit;
+  }
+  .song-artist {
+    height: 21px;
+    font-size: 14px;
+    color: #fff;
+    @extend .omit;
+  }
+}

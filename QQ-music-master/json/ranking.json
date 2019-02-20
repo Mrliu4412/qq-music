@@ -1,0 +1,283 @@
+{
+  "code": 0,
+  "subcode": 0,
+  "message": "",
+  "default": 0,
+  "data": {
+    "topList": [
+      {
+        "id": 4,
+        "listenCount": 19500000,
+        "picUrl": "http://y.gtimg.cn/music/common/upload/iphone_order_channel/toplist_4_300_214074153.jpg",
+        "songList": [
+          {
+            "singername": "薛之谦",
+            "songname": "那是你离开了北京的生活"
+          },
+          {
+            "singername": "大张伟",
+            "songname": "阳光彩虹小白马"
+          },
+          {
+              "singername": "吴亦凡",
+            "songname": "天地"
+          }
+        ],
+        "topTitle": "巅峰榜·流行指数",
+        "type": 0
+      },
+      {
+        "id": 26,
+        "listenCount": 19200000,
+        "picUrl": "http://y.gtimg.cn/music/common/upload/iphone_order_channel/toplist_26_300_5170189.jpg",
+        "songList": [
+          {
+            "singername": "杨坤/郭采洁",
+            "songname": "答案"
+          },
+          {
+            "singername": "曾惜",
+            "songname": "讲真的"
+          },
+          {
+            "singername": "Achim Reichel",
+            "songname": "Aloha Heja He"
+          }
+        ],
+        "topTitle": "巅峰榜·热歌",
+        "type": 0
+      },
+      {
+        "id": 27,
+        "listenCount": 15400000,
+        "picUrl": "http://y.gtimg.cn/music/common/upload/iphone_order_channel/toplist_27_300_214074153.jpg",
+        "songList": [
+          {
+            "singername": "薛之谦",
+            "songname": "那是你离开了北京的生活"
+          },
+          {
+            "singername": "许嵩",
+            "songname": "如约而至"
+          },
+          {
+            "singername": "张紫宁/杨芸晴/SING-蒋申/陈意涵/魏瑾/强东玥",
+            "songname": "摩天轮的眼泪"
+          }
+        ],
+        "topTitle": "巅峰榜·新歌",
+        "type": 0
+      },
+      {
+        "id": 28,
+        "listenCount": 19600000,
+        "picUrl": "http://y.gtimg.cn/music/common/upload/iphone_order_channel/toplist_28_300_214015354.jpg",
+        "songList": [
+          {
+            "singername": "宋孟君/威仔",
+            "songname": "9277 (原版)"
+          },
+          {
+            "singername": "半阳",
+            "songname": "我的将军啊"
+          },
+          {
+            "singername": "小潘潘/小峰峰",
+            "songname": "学猫叫"
+          }
+        ],
+        "topTitle": "巅峰榜·网络歌曲",
+        "type": 0
+      },
+      {
+        "id": 5,
+        "listenCount": 8178700,
+        "picUrl": "http://y.gtimg.cn/music/common/upload/iphone_order_channel/toplist_5_300_214046115.jpg",
+        "songList": [
+          {
+            "singername": "李荣浩",
+            "songname": "成长之重量"
+          },
+          {
+            "singername": "金南玲/李俊佑",
+            "songname": "超级喜欢你"
+          },
+          {
+            "singername": "李玉刚",
+            "songname": "菩提"
+          }
+        ],
+        "topTitle": "巅峰榜·内地",
+        "type": 0
+      },
+      {
+        "id": 6,
+        "listenCount": 5249200,
+        "picUrl": "http://y.gtimg.cn/music/common/upload/iphone_order_channel/toplist_6_300_213922043.jpg",
+        "songList": [
+          {
+            "singername": "周杰伦",
+            "songname": "不爱我就拉倒"
+          },
+          {
+            "singername": "杨丞琳",
+            "songname": "忘课"
+          },
+          {
+            "singername": "成龙",
+            "songname": "青春故事"
+          }
+        ],
+        "topTitle": "巅峰榜·港台",
+        "type": 0
+      },
+      {
+        "id": 3,
+        "listenCount": 10927800,
+        "picUrl": "http://y.gtimg.cn/music/common/upload/iphone_order_channel/toplist_3_300_214034781.jpg",
+        "songList": [
+          {
+            "singername": "Charli XCX",
+            "songname": "5 In The Morning"
+          },
+          {
+            "singername": "K-391/Alan Walker/Julie Bergan/승리 (胜利)",
+            "songname": "Ignite"
+          },
+          {
+            "singername": "Clean Bandit/Demi Lovato",
+            "songname": "Solo"
+          }
+        ],
+        "topTitle": "巅峰榜·欧美",
+        "type": 0
+      },
+      {
+        "id": 16,
+        "listenCount": 5849020,
+        "picUrl": "http://y.gtimg.cn/music/common/upload/iphone_order_channel/toplist_16_300_214025282.jpg",
+        "songList": [
+          {
+            "singername": "AOA (에이오에이)",
+            "songname": "빙글뱅글 (Bingle Bangle)"
+          },
+          {
+            "singername": "The One (더원)",
+            "songname": "흔한 이별 (常见的离别)"
+          },
+          {
+            "singername": "혁오 (Hyukoh)",
+            "songname": "LOVE YA!"
+          }
+        ],
+        "topTitle": "巅峰榜·韩国",
+        "type": 0
+      },
+      {
+        "id": 29,
+        "listenCount": 3345680,
+        "picUrl": "http://y.gtimg.cn/music/common/upload/iphone_order_channel/toplist_29_300_214039111.jpg",
+        "songList": [
+          {
+            "singername": "胡彦斌/韩雪",
+            "songname": "快意江湖"
+          },
+          {
+            "singername": "汪苏泷/吴映洁",
+            "songname": "小流星"
+          },
+          {
+            "singername": "叶炫清",
+            "songname": "等得起"
+          }
+        ],
+        "topTitle": "巅峰榜·影视金曲",
+        "type": 0
+      },
+      {
+        "id": 17,
+        "listenCount": 1940000,
+        "picUrl": "http://y.gtimg.cn/music/common/upload/iphone_order_channel/toplist_17_300_213923516.jpg",
+        "songList": [
+          {
+            "singername": "井上苑子",
+            "songname": "リメンバー (Remember)"
+          },
+          {
+            "singername": "EXILE (放浪兄弟)",
+            "songname": "Awakening"
+          },
+          {
+            "singername": "初音ミク (初音未来)",
+            "songname": "蝉"
+          }
+        ],
+        "topTitle": "巅峰榜·日本",
+        "type": 0
+      },
+      {
+        "id": 201,
+        "listenCount": 119619,
+        "picUrl": "http://y.gtimg.cn/music/common/upload/iphone_order_channel/20150127163830.jpg",
+        "songList": [
+          {
+            "singername": "吴亦凡",
+            "songname": "天地"
+          },
+          {
+            "singername": "田园",
+            "songname": "念念不忘"
+          },
+          {
+            "singername": "爱情公寓全体",
+            "songname": "我的未来式"
+          }
+        ],
+        "topTitle": "巅峰榜·MV",
+        "type": 0
+      },
+      {
+        "id": 52,
+        "listenCount": 1490008,
+        "picUrl": "http://y.gtimg.cn/music/common/upload/iphone_order_channel/toplist_52_300_214053005.jpg",
+        "songList": [
+          {
+            "singername": "Tie Yann (铁阳)",
+            "songname": "十字海星"
+          },
+          {
+            "singername": "左颜",
+            "songname": "痛爱"
+          },
+          {
+            "singername": "张羿凡",
+            "songname": "不负春光 (Demo)"
+          }
+        ],
+        "topTitle": "巅峰榜·腾讯音乐人原创榜",
+        "type": 0
+      },
+      {
+        "id": 36,
+        "listenCount": 4427020,
+        "picUrl": "http://y.gtimg.cn/music/common/upload/iphone_order_channel/toplist_36_300_201816159.jpg",
+        "songList": [
+          {
+            "singername": "郑阳亭",
+            "songname": "你那么爱他"
+          },
+          {
+            "singername": "冯鑫",
+            "songname": "成都"
+          },
+          {
+            "singername": "胡赟兆",
+            "songname": "啷个哩个啷"
+          }
+        ],
+        "topTitle": "巅峰榜·K歌金曲",
+        "type": 0
+      }
+    ]
+  }
+}

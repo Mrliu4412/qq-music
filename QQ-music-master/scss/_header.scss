@@ -1,0 +1,27 @@
+.header{
+  display: flex;
+  align-items: center;
+  position: relative;
+  height: $header-height;
+  background-color: $header-backgroundColor;
+  h1{
+    display: none;
+  }
+  .log{
+      height: $log-height;
+      margin: $log-marginLeft;
+  }
+  .playButton{
+    position: absolute;
+    display: inline-block;
+    top: $playButton-top;
+    right: $playButton-right;
+    height: $playButton-height;
+    line-height: $playButton-lineHeight;
+    background-color: $playButton-bgc;
+    color: $playButton-color;
+    padding: $playButton-padding;
+    font-size: $playButton-fontSize;
+    border-radius: $playButton-boederRadius;
+  }
+}

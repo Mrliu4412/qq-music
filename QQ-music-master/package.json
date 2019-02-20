@@ -1,0 +1,36 @@
+{
+  "name": "QQ-music",
+  "version": "1.0.0",
+  "description": "QQ-music",
+  "main": "index.js",
+  "scripts": {
+    "dist": "sass --style compressed ./scss/app.scss ./dist/app.css && autoprefixer-cli -o ./dist/app.css ./dist/app.css&& webpack -p"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HongTao-Huang/QQ-music.git"
+  },
+  "keywords": [],
+  "author": {
+    "name": "huanght",
+    "email": "hht51770@hotmail.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/HongTao-Huang/QQ-music/issues"
+  },
+  "homepage": "https://github.com/HongTao-Huang/QQ-music#readme",
+  "dependencies": {
+    "babel-core": "^6.26.3",
+    "babel-loader": "^7.1.4",
+    "cors": "^2.8.4",
+    "express": "^4.16.3",
+    "request": "^2.87.0",
+    "request-promise": "^4.2.2",
+    "swiper": "^4.3.3"
+  },
+  "devDependencies": {
+    "babel-preset-env": "^1.7.0",
+    "webpack": "^3.6.0"
+  }
+}

@@ -1,0 +1,27 @@
+*{margin: 0;padding: 0;box-sizing: border-box;}
+body{
+  background-color: $body-backgroundcolor;
+}
+ul,ol{
+  list-style: none;
+}
+
+h1,h2,h3{
+  font-weight: normal;
+}
+
+a{
+  text-decoration: none;
+}
+
+.clearFix::after{
+  content: '';
+  display: block;
+  clear: both;
+}
+
+.omit{
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+}

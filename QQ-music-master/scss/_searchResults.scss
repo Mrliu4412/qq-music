@@ -1,0 +1,46 @@
+.searchResults{
+  .songList{
+    .songItem{
+      display: block;
+      padding-left: 56px;
+      height: 55px;
+      overflow: hidden;
+      background-color: #fff;
+      border-bottom: 1px solid #ddd;
+      position: relative;
+      .iconMusic{
+        background-image: url(../images/search.png);
+        background-repeat: no-repeat;
+        background-size: cover;
+        width: 22px;
+        height: 20px;
+        display: block;
+        position: absolute;
+        top: 18px;
+        left: 18px;
+      }
+      .titleImg{
+        position: absolute;
+        display: block;
+        width: 40px;
+        height: 40px;
+        left: 8px;
+        top: 8px;
+        border-radius: 50%;
+      }
+      .songname{
+        margin: 10px 0 2px;
+        font-size: 16px;
+        color: #000;
+        line-height: 18px;
+        @extend .omit;
+      }
+      .singers{
+        font-size: 12px;
+        color: #808080;
+        @extend .omit;
+        padding: 1px 0;
+      }
+    }
+  }
+}

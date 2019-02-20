@@ -1,0 +1,21 @@
+.player-lyrics{
+  flex: 1;
+  overflow: hidden;
+  margin: 36px 0 60px 0;
+  max-height: calc(100% - 205px);
+  color: rgba(255,255,255,.6);
+  .player-lyrics-lines{
+    overflow: hidden;
+    transition: .5s;
+    .player-lyrics-line{
+      padding: 11px 15px 10px;
+      @extend .omit;
+      text-align: center;
+      color: rgba(255,255,255,.6);
+      font-size: 16px;
+    }
+    .active {
+      color: #31c27c;
+    }
+  }
+}
